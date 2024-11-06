@@ -1,5 +1,5 @@
 #!/bin/bash
-# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
+# github.com/felipeoliboni
 # for changing Hyprland Layouts (Master or Dwindle) on the fly
 
 notif="$HOME/.config/swaync/images/bell.png"

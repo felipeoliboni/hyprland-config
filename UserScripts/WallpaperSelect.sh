@@ -1,5 +1,5 @@
 #!/bin/bash
-# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */ 
+# github.com/felipeoliboni
 # This script for selecting wallpapers (SUPER W)
 
 # WALLPAPERS PATH

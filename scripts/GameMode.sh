@@ -1,5 +1,5 @@
 #!/bin/bash
-# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
+# github.com/felipeoliboni
 # Game Mode. Turning off all animations
 
 notif="$HOME/.config/swaync/images/bell.png"

@@ -1,5 +1,5 @@
 #!/bin/bash
-# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
+# github.com/felipeoliboni
 # Script for changing blurs on the fly
 
 notif="$HOME/.config/swaync/images/bell.png"
